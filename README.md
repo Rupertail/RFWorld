@@ -46,7 +46,7 @@ The scripts use the repository checkout, `dataset/`, and `exp/` by default. They
 
 ## Quick start
 
-Download and organize the official NAVSIM/OpenScene data with the helpers in `download/`. The expected layout and complete reproduction sequence are in [`docs/REPRODUCTION.md`](docs/REPRODUCTION.md).
+Download and organize the official NAVSIM/OpenScene data with the helpers in `download/`.
 
 Build the test metric cache and evaluate the released checkpoint:
 
