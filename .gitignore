@@ -1,0 +1,21 @@
+# Python
+*.pyc
+**/__pycache__/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Local experiment outputs and downloaded data
+dataset/
+exp/
+*.ckpt
+*.pth
+*.npy
+*.pkl
+*.gz
+*.log
+
+# IDE
+.vscode/
+.idea/
