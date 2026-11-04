@@ -76,12 +76,11 @@ If you find RFWorld useful in your research, please consider citing:
 ```bibtex
 @inproceedings{wang2026rfworld,
   title     = {Trajectory Evaluation via Rollout-Free World Model for End-to-end Autonomous Driving},
-  author    = {Wang, Junzhe and Zhang, Jinqing and Liu, Qingjie},
-  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  author    = {Junzhe Wang and Jinqing Zhang and Qingjie Liu},
+  booktitle = {Conference on Neural Information Processing Systems (NeurIPS)},
   year      = {2026},
   eprint    = {2611.05072},
   archivePrefix = {arXiv},
-  primaryClass  = {cs.RO},
   url       = {https://arxiv.org/abs/2611.05072}
 }
 ```
