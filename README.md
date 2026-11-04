@@ -68,3 +68,20 @@ The cache and target generation steps can be resumed; they require the full data
 ## Acknowledgements and license
 
 This release builds on the [NAVSIM](https://github.com/autonomousvision/navsim) devkit and OpenScene data. Their licenses and access terms continue to apply. The repository is released under the Apache License 2.0; see [LICENSE](LICENSE).
+
+## Citation
+
+If you find RFWorld useful in your research, please consider citing:
+
+```bibtex
+@inproceedings{wang2026rfworld,
+  title     = {Trajectory Evaluation via Rollout-Free World Model for End-to-end Autonomous Driving},
+  author    = {Wang, Junzhe and Zhang, Jinqing and Liu, Qingjie},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  year      = {2026},
+  eprint    = {2611.05072},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.RO},
+  url       = {https://arxiv.org/abs/2611.05072}
+}
+```
